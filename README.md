@@ -1,5 +1,3 @@
-Okay, got it. Here's how to run a Flask app:
-
 ## Running a Flask App
 
 Assuming you have a Flask app already set up, here's how you can run it:
